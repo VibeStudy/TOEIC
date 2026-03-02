@@ -132,6 +132,21 @@
 | go over | 검토하다, 살펴보다 | Let's go over the report before submitting it. |
 | nominate | 지명하다, 추천하다 | She was nominated for the employee of the year award. |
 | plumber | 배관공 | The plumber was called to fix the leaking pipe. |
+| free up | 비워두다, 확보하다 | We need to free up some space in the storage room. |
+| relevant | 관련 있는, 적절한 | Please attach any relevant documents to your application. |
+| reluctant | 꺼리는, 마지못한 | He was reluctant to share the details of the project. |
+| utensil | 도구, 기구 (특히 주방용) | The kitchen is fully equipped with cooking utensils. |
+| bin | 쓰레기통, 보관함 | Please dispose of any waste in the recycling bin. |
+| deal with | 처리하다, 다루다 | She was assigned to deal with customer complaints. |
+| speak to | ~에 대해 말하다, ~와 이야기하다 | The report speaks to the need for better communication. |
+| once | 일단 ~하면; 한 번 | Once the report is ready, please send it to the team. |
+| former | 이전의, 전임의 | The former manager left the company last year. |
+| shred | 잘게 찢다, 파쇄하다; 조각 | Please shred any documents containing sensitive information. |
+| renowned | 유명한, 명성 있는 | The hotel is renowned for its outstanding service. |
+| stellar | 뛰어난, 훌륭한; 별의 | She gave a stellar performance during the presentation. |
+| resignation | 사직, 사임; 체념 | He submitted his resignation letter effective immediately. |
+| prompt | 즉각적인; 촉구하다 | The complaint prompted the company to revise its policy. |
+| defect | 결함, 결점; 이탈하다 | The product was recalled due to a manufacturing defect. |
 
 ---
 
