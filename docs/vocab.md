@@ -147,6 +147,9 @@
 | resignation | 사직, 사임; 체념 | He submitted his resignation letter effective immediately. |
 | prompt | 즉각적인; 촉구하다 | The complaint prompted the company to revise its policy. |
 | defect | 결함, 결점; 이탈하다 | The product was recalled due to a manufacturing defect. |
+| provided that | ~라는 조건으로, ~한다면 | Provided that all documents are submitted, the application will be processed. |
+| so long as | ~하는 한, ~라면 | So long as you follow the guidelines, you may work remotely. |
+| as long as | ~하는 한, ~하는 동안 | As long as demand remains high, production will continue. |
 
 ---
 
