@@ -151,6 +151,9 @@
 | so long as | ~하는 한, ~라면 | So long as you follow the guidelines, you may work remotely. |
 | as long as | ~하는 한, ~하는 동안 | As long as demand remains high, production will continue. |
 | sales figure | 판매 수치, 매출액 | The sales figures for last quarter exceeded expectations. |
+| alternatively | 그 대신에, 아니면 | Alternatively, you can submit the form by email. |
+| postage | 우편 요금 | The postage for overseas packages varies by weight. |
+| prepaid | 선불의, 미리 지불된 | A prepaid envelope is enclosed for your convenience. |
 
 ---
 
