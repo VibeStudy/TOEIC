@@ -158,6 +158,7 @@
 | scent | 향기, 냄새; 냄새를 맡다 | The scent of fresh coffee filled the office. |
 | vinegar | 식초 | A small amount of vinegar can be used as a cleaning agent. |
 | for one's own end | 자기 자신의 목적을 위해, 사적인 이익을 위해 | He used the company's resources for his own ends. |
+| checkup | 점검, 검진 | I have a checkup at the hospital tomorrow. |
 
 ---
 
