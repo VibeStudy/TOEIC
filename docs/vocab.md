@@ -33,6 +33,7 @@
 | bold | 용감한, 대담한; 굵은 글씨의 | The manager made a bold decision to expand overseas. |
 | household name | 누구나 아는 이름, 유명한 이름 | The brand became a household name within just a few years. |
 | rave | 열광적인 반응(호평); 극찬하다 | The new restaurant received rave reviews from critics. |
+| enthusiastic | 열정적인, 열렬한 | The team was enthusiastic about the new project. |
 | mediocre | 썩 좋지 않은 | The reviews described the meal as mediocre at best. |
 | quirky | 특이한, 기발한 | The café has a quirky interior that attracts many visitors. |
 | alike | 서로 비슷한, 똑같이 | The offer is open to new and existing customers alike. |
@@ -54,6 +55,7 @@
 | comply | (규칙 등에) 따르다, 준수하다 | All staff must comply with the updated safety regulations. |
 | interfere | 방해하다, 간섭하다 | Please do not interfere with the ongoing inspection. |
 | follow suit | 선례를 따르다 | After the CEO resigned, several board members followed suit. |
+| seek (sought) | 구하다, 찾다, 추구하다 | The company is seeking a qualified candidate for the position. |
 | explore | 탐구하다, 살펴보다; 탐험하다 | The team explored several options before making a final decision. |
 | suggest | 제안하다, 시사하다 | The consultant suggested a new approach to the problem. |
 | cite | 인용하다; 언급하다; 소환하다 | The report cited several studies to support its findings. |
@@ -77,6 +79,7 @@
 | on leave | 휴가 중인 | Mr. Park is currently on leave and will return next week. |
 | in person | 직접, 몸소 | Applicants are required to submit documents in person. |
 | on a trial basis | 시험적으로 | The new schedule will be implemented on a trial basis. |
+| extension | 연장; 내선 번호; 확장 | The deadline has been granted a two-week extension. |
 | pending | 미정인, 미결인; ~을 기다리는 동안 | The contract is still pending approval from the board. |
 | on-site | 현장의, 구내의 | There is an on-site gym available for all employees. |
 | invoice | 송장, 청구서 | Please send the invoice to our accounting department. |
@@ -149,6 +152,7 @@
 | tidy | 깔끔한, 정돈된; 정리하다 | Please keep your workspace tidy at all times. |
 | hold ~ up | ~을 떠받치다 / ~을 지연시키다 | The heavy traffic held up the delivery by two hours. |
 | capable | ~을 할 수 있는, 유능한 | He is a highly capable engineer with 10 years of experience. |
+| dispute | 분쟁, 논쟁; 이의를 제기하다 | The two companies resolved their dispute through negotiation. |
 | defect | 결함, 결점; 이탈하다 | The product was recalled due to a manufacturing defect. |
 | hygienic | 위생적인, 위생의 | The kitchen must be kept hygienic at all times. |
 | preliminary | 예비의, 사전의 | A preliminary meeting will be held before the official launch. |
