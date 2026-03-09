@@ -70,6 +70,7 @@
 | stand out | 눈에 띄다 | Her resume stood out among hundreds of applicants. |
 | thrive | 잘 자라다 | Small businesses can thrive in a competitive market. |
 | surge | 급증하다, 급등하다; 급증 | There was a surge in demand following the product launch. |
+| decline | 감소하다, 하락하다; 거절하다; 감소, 하락 | Sales declined sharply in the third quarter. |
 | alter | 바꾸다 | The tailor will alter the suit to fit you perfectly. |
 | meet a standard | 기준을 충족하다 | All products must meet safety standards before shipment. |
 | be meant to | ~하기로 되어 있다; ~할 의도이다 | The new policy is meant to improve efficiency. |
