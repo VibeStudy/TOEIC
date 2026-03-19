@@ -164,6 +164,9 @@
 | vinegar | 식초 | A small amount of vinegar can be used as a cleaning agent. |
 | for one's own end | 자기 자신의 목적을 위해, 사적인 이익을 위해 | He used the company's resources for his own ends. |
 | checkup | 점검, 검진 | I have a checkup at the hospital tomorrow. |
+| publicize | 알리다, 홍보하다, 공표하다 | The company publicized the new product launch through social media. |
+| hassle | 번거로움, 골치 아픈 일; 귀찮게 하다 | Filling out the form was more of a hassle than expected. |
+| legal | 법적인, 합법적인 | The company sought legal advice before signing the contract. |
 
 ---
 
