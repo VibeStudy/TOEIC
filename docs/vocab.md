@@ -241,3 +241,7 @@
 | improve | The situation **improved**. | The system **was improved**. |
 | open | The store **opens** at 9. | The door **was opened**. |
 | move | He **moved** to Seoul. | The furniture **was moved**. |
+| artifact | 유물, 공예품; 인공물 | The museum displayed artifacts from ancient civilizations. |
+| cuckoo clock | 뻐꾸기 시계 | The antique cuckoo clock on the wall chimed every hour. |
+| souvenir shop | 기념품 가게 | She picked up a few gifts at the souvenir shop near the entrance. |
+| stuffed animal | 봉제 인형 | She bought a stuffed animal as a souvenir for her niece. |
