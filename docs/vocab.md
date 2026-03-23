@@ -167,6 +167,19 @@
 | publicize | 알리다, 홍보하다, 공표하다 | The company publicized the new product launch through social media. |
 | hassle | 번거로움, 골치 아픈 일; 귀찮게 하다 | Filling out the form was more of a hassle than expected. |
 | legal | 법적인, 합법적인 | The company sought legal advice before signing the contract. |
+| shovel | 삽; 삽으로 파다 | Workers used shovels to dig the foundation for the new building. |
+| intermission | 휴식 시간, 막간 | There will be a 15-minute intermission between the two performances. |
+| strike | 파업; 치다, 부딪히다; 파업하다 | Workers went on strike to demand higher wages. |
+| pass out | 기절하다; 나눠주다 | He passed out from exhaustion after working for 20 hours straight. |
+| take a stroll | 산책하다 | She took a stroll along the river after the meeting. |
+| expedite | 신속히 처리하다, 촉진하다 | We need to expedite the delivery to meet the client's deadline. |
+| intricate | 복잡한, 정교한 | The engineer explained the intricate details of the new system. |
+| usher | 안내원; 안내하다 | The usher guided guests to their seats before the ceremony. |
+| concierge | 안내원, 컨시어지 | The hotel concierge arranged a car rental for the guests. |
+| in the mood for | ~할 기분이다, ~이 당기다 | I'm not really in the mood for a long meeting today. |
+| triathlon | 철인 3종 경기 | She trained for months to compete in her first triathlon. |
+| be supposed to do | ~하기로 되어 있다, ~해야 한다 | The report is supposed to be submitted by noon. |
+| pastry | 페이스트리, 밀가루 반죽 과자류 | The bakery offers a wide selection of fresh pastries every morning. |
 
 ---
 
