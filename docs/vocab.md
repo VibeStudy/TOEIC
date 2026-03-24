@@ -188,6 +188,7 @@
 | regularity | 규칙성, 정기성 | The regularity of the maintenance schedule helped prevent breakdowns. |
 | realtor | 부동산 중개인 | The realtor showed us three properties before we made a decision. |
 | patronage | 후원, 단골 이용; 고객 | The restaurant thanked its customers for their continued patronage. |
+| amenity | 편의 시설; 쾌적함 | The hotel offers a wide range of amenities including a pool and gym. |
 
 ---
 
