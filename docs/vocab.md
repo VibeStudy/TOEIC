@@ -186,6 +186,8 @@
 | publicity | 홍보, 알려짐; 관심, 주목 | The product launch generated a lot of publicity in the media. |
 | proximity | 근접성, 가까움 | The office's proximity to the subway made it popular with employees. |
 | regularity | 규칙성, 정기성 | The regularity of the maintenance schedule helped prevent breakdowns. |
+| realtor | 부동산 중개인 | The realtor showed us three properties before we made a decision. |
+| patronage | 후원, 단골 이용; 고객 | The restaurant thanked its customers for their continued patronage. |
 
 ---
 
