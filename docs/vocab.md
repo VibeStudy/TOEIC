@@ -180,6 +180,12 @@
 | triathlon | 철인 3종 경기 | She trained for months to compete in her first triathlon. |
 | be supposed to do | ~하기로 되어 있다, ~해야 한다 | The report is supposed to be submitted by noon. |
 | pastry | 페이스트리, 밀가루 반죽 과자류 | The bakery offers a wide selection of fresh pastries every morning. |
+| utterly | 완전히, 전적으로 | The project was utterly successful beyond everyone's expectations. |
+| broadly | 대체로, 폭넓게 | The new policy was broadly welcomed by employees. |
+| gradually | 점차적으로, 서서히 | The company gradually expanded its operations overseas. |
+| publicity | 홍보, 알려짐; 관심, 주목 | The product launch generated a lot of publicity in the media. |
+| proximity | 근접성, 가까움 | The office's proximity to the subway made it popular with employees. |
+| regularity | 규칙성, 정기성 | The regularity of the maintenance schedule helped prevent breakdowns. |
 
 ---
 
