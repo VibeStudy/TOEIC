@@ -189,6 +189,9 @@
 | realtor | 부동산 중개인 | The realtor showed us three properties before we made a decision. |
 | patronage | 후원, 단골 이용; 고객 | The restaurant thanked its customers for their continued patronage. |
 | amenity | 편의 시설; 쾌적함 | The hotel offers a wide range of amenities including a pool and gym. |
+| after that | 그 후에, 그다음에 | Please review the report; after that, submit it to the manager. |
+| apparently | 보아하니, 분명히; ~인 것 같다 | Apparently, the meeting has been rescheduled for next Monday. |
+| briefly | 잠깐, 간략하게 | She briefly explained the new policy to the team. |
 
 ---
 
