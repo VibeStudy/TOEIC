@@ -196,6 +196,14 @@
 | place emphasis on | ~을 강조하다 | The manager placed emphasis on meeting the project deadline. |
 | fumes | 연기, 가스, 유해 증기 | Workers were evacuated due to toxic fumes in the building. |
 | ramp | 경사로; (생산·활동을) 늘리다 (ramp up) | The factory ramped up production to meet increased demand. |
+| reimbursement | 비용 상환, 환급 | Employees must submit receipts to receive reimbursement for travel expenses. |
+| initiative | 계획, 구상; 주도권 | The company launched a new initiative to reduce energy consumption. |
+| premises | (건물·토지를 포함한) 구내, 부지 | Smoking is not permitted anywhere on the premises. |
+| tentative | 잠정적인, 임시의 | The tentative schedule for the project will be confirmed next week. |
+| consecutive | 연속적인 | The store has reported growth for five consecutive quarters. |
+| oversee | 감독하다 | She was appointed to oversee the construction of the new facility. |
+| streamline | 간소화하다 | The new software helped streamline the company's billing process. |
+| consolidate | 통합하다, 강화하다 | The two departments were consolidated to improve efficiency. |
 
 ---
 
