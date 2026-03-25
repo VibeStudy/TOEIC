@@ -192,6 +192,10 @@
 | after that | 그 후에, 그다음에 | Please review the report; after that, submit it to the manager. |
 | apparently | 보아하니, 분명히; ~인 것 같다 | Apparently, the meeting has been rescheduled for next Monday. |
 | briefly | 잠깐, 간략하게 | She briefly explained the new policy to the team. |
+| executive | 임원, 경영진; 경영의, 행정의 | The executive team approved the new budget plan. |
+| place emphasis on | ~을 강조하다 | The manager placed emphasis on meeting the project deadline. |
+| fumes | 연기, 가스, 유해 증기 | Workers were evacuated due to toxic fumes in the building. |
+| ramp | 경사로; (생산·활동을) 늘리다 (ramp up) | The factory ramped up production to meet increased demand. |
 
 ---
 
