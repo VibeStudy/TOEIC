@@ -211,6 +211,7 @@
 | appraise | 평가하다, 감정하다 | The property was appraised at a higher value than expected. |
 | obey | 따르다, 복종하다 | All employees are expected to obey the company's code of conduct. |
 | specifically | 특히, 명확히, 특별히 | The manager specifically asked that all reports be submitted by noon. |
+| setting | 환경, 배경; 설정 | The conference was held in a professional setting. |
 
 ---
 
