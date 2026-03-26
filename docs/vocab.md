@@ -204,6 +204,13 @@
 | oversee | 감독하다 | She was appointed to oversee the construction of the new facility. |
 | streamline | 간소화하다 | The new software helped streamline the company's billing process. |
 | consolidate | 통합하다, 강화하다 | The two departments were consolidated to improve efficiency. |
+| influx | 유입, 밀려듦 | The city saw a large influx of tourists during the summer festival. |
+| waive | (권리·요금 등을) 포기하다, 면제하다 | The company agreed to waive the cancellation fee for loyal customers. |
+| concede | 인정하다; 양보하다 | He conceded that the original plan needed to be revised. |
+| instruct | 지시하다, 가르치다 | The manager instructed the team to submit reports by Friday. |
+| appraise | 평가하다, 감정하다 | The property was appraised at a higher value than expected. |
+| obey | 따르다, 복종하다 | All employees are expected to obey the company's code of conduct. |
+| specifically | 특히, 명확히, 특별히 | The manager specifically asked that all reports be submitted by noon. |
 
 ---
 
