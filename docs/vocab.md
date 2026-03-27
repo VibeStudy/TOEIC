@@ -181,6 +181,8 @@
 | be supposed to do | ~하기로 되어 있다, ~해야 한다 | The report is supposed to be submitted by noon. |
 | pastry | 페이스트리, 밀가루 반죽 과자류 | The bakery offers a wide selection of fresh pastries every morning. |
 | utterly | 완전히, 전적으로 | The project was utterly successful beyond everyone's expectations. |
+| rather | 꽤, 다소; 오히려; ~보다는 (rather than) | The new policy is rather strict compared to the previous one. |
+| overwhelmingly | 압도적으로 | The proposal was overwhelmingly approved by the board members. |
 | broadly | 대체로, 폭넓게 | The new policy was broadly welcomed by employees. |
 | gradually | 점차적으로, 서서히 | The company gradually expanded its operations overseas. |
 | publicity | 홍보, 알려짐; 관심, 주목 | The product launch generated a lot of publicity in the media. |
