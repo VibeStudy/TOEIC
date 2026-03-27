@@ -183,6 +183,16 @@
 | utterly | 완전히, 전적으로 | The project was utterly successful beyond everyone's expectations. |
 | rather | 꽤, 다소; 오히려; ~보다는 (rather than) | The new policy is rather strict compared to the previous one. |
 | overwhelmingly | 압도적으로 | The proposal was overwhelmingly approved by the board members. |
+| so that | ~하기 위해서; ~하도록 | Please arrive early so that we can start the meeting on time. |
+| in order to | ~하기 위해서 | She took an online course in order to improve her writing skills. |
+| fluctuations in | ~의 변동, ~의 등락 | The report noted fluctuations in currency rates over the past quarter. |
+| parcel | 소포, 꾸러미; 구획 | The parcel was delivered to the wrong address by mistake. |
+| be entitled to do | ~할 자격이 있다, ~할 권리가 있다 | Employees are entitled to receive two weeks of paid vacation per year. |
+| recipient | 수령인, 수취인; 받는 사람 | The award recipient gave a short speech at the ceremony. |
+| compensation | 보상, 보수; 급여 | The company offers competitive compensation packages to attract top talent. |
+| salary | 급여, 월급 | She negotiated a higher salary before accepting the job offer. |
+| now that | 이제 ~이므로, ~한 이상 | Now that the project is complete, the team can take a break. |
+| enforce | (법·규칙 등을) 시행하다, 집행하다 | The company enforces a strict dress code for all employees. |
 | broadly | 대체로, 폭넓게 | The new policy was broadly welcomed by employees. |
 | gradually | 점차적으로, 서서히 | The company gradually expanded its operations overseas. |
 | publicity | 홍보, 알려짐; 관심, 주목 | The product launch generated a lot of publicity in the media. |
