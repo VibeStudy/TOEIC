@@ -191,6 +191,7 @@
 | recipient | 수령인, 수취인; 받는 사람 | The award recipient gave a short speech at the ceremony. |
 | compensation | 보상, 보수; 급여 | The company offers competitive compensation packages to attract top talent. |
 | salary | 급여, 월급 | She negotiated a higher salary before accepting the job offer. |
+| proceeds | 수익금, 매출금 | All proceeds from the charity event will be donated to local schools. |
 | now that | 이제 ~이므로, ~한 이상 | Now that the project is complete, the team can take a break. |
 | enforce | (법·규칙 등을) 시행하다, 집행하다 | The company enforces a strict dress code for all employees. |
 | broadly | 대체로, 폭넓게 | The new policy was broadly welcomed by employees. |
