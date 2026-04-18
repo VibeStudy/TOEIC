@@ -298,3 +298,15 @@
 | surpass | 능가하다, 초월하다 | Sales this quarter surpassed last year's record. |
 | diversity | 다양성 | The company values diversity in its workforce. |
 | diversion | 우회, 전환; 기분 전환 | The road closure caused a diversion through the town. |
+| outline | 개요, 윤곽; 개요를 서술하다 | The manager outlined the plan for the new project. |
+| press conference | 기자 회견 | The CEO held a press conference to address the issue. |
+| remark | 발언, 언급; 말하다 | The speaker made a brief remark before the presentation. |
+| logistics | 물류, 병참 | The logistics team ensured timely delivery of all goods. |
+| extensive | 광범위한, 대규모의 | The report required extensive research over several months. |
+| assume | 가정하다, 맡다 | We can assume that demand will increase next quarter. |
+| generous | 너그러운, 후한 | The firm offered a generous discount to loyal customers. |
+| recession | 경기 침체 | The company struggled to survive during the recession. |
+| roast | 굽다; 비판하다 | The chef roasted the vegetables before serving them. |
+| prestigious | 명성 있는, 권위 있는 | She received a prestigious award for her contributions. |
+| involve | 포함하다, 관련시키다 | The project involves collaboration between multiple teams. |
+| poll | 여론 조사; 투표하다 | A poll showed that most customers preferred the new design. |
