@@ -291,3 +291,8 @@
 | cuckoo clock | 뻐꾸기 시계 | The antique cuckoo clock on the wall chimed every hour. |
 | souvenir shop | 기념품 가게 | She picked up a few gifts at the souvenir shop near the entrance. |
 | stuffed animal | 봉제 인형 | She bought a stuffed animal as a souvenir for her niece. |
+| rack | 선반, 걸이대 | She placed her coat on the rack near the entrance. |
+| countertop | 조리대, 카운터 상판 | The groceries were placed on the countertop. |
+| sculpture | 조각품, 조각 | The sculpture was displayed in the center of the gallery. |
+| retreat | 후퇴하다; 휴양지 | The team held a retreat to discuss strategy. |
+| surpass | 능가하다, 초월하다 | Sales this quarter surpassed last year's record. |
