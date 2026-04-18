@@ -296,3 +296,5 @@
 | sculpture | 조각품, 조각 | The sculpture was displayed in the center of the gallery. |
 | retreat | 후퇴하다; 휴양지 | The team held a retreat to discuss strategy. |
 | surpass | 능가하다, 초월하다 | Sales this quarter surpassed last year's record. |
+| diversity | 다양성 | The company values diversity in its workforce. |
+| diversion | 우회, 전환; 기분 전환 | The road closure caused a diversion through the town. |
