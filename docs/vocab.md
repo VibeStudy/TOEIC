@@ -313,3 +313,4 @@
 | take over | 인수하다, 떠맡다 | The new manager took over the department last month. |
 | barber shop | 이발소 | He stopped by the barber shop for a quick haircut. |
 | basement | 지하실, 지하층 | The storage room is located in the basement. |
+| garment | 의복, 의류 | The garment factory produces thousands of items daily. |
