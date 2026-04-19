@@ -319,3 +319,8 @@
 | negligence | 태만, 부주의 | The accident was caused by negligence on the part of the staff. |
 | vendor | 판매업체, 노점상 | The company selected a new vendor for its office supplies. |
 | envision | 상상하다, 구상하다 | The CEO envisioned a global expansion within five years. |
+| inconsistent | 일관되지 않은, 모순된 | The quality of the products has been inconsistent lately. |
+| affiliated | 제휴된, 소속된 | The university is affiliated with several research institutions. |
+| pedestrian | 보행자; 평범한, 진부한 | A new crosswalk was installed for pedestrian safety. |
+| premier | 최고의, 일류의; 총리 | The hotel is known as the premier destination for business travelers. |
+| shipment | 선적, 출하; 화물 | The shipment is expected to arrive by the end of the week. |
