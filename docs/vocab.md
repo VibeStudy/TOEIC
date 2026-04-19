@@ -310,3 +310,5 @@
 | prestigious | 명성 있는, 권위 있는 | She received a prestigious award for her contributions. |
 | involve | 포함하다, 관련시키다 | The project involves collaboration between multiple teams. |
 | poll | 여론 조사; 투표하다 | A poll showed that most customers preferred the new design. |
+| take over | 인수하다, 떠맡다 | The new manager took over the department last month. |
+| barber shop | 이발소 | He stopped by the barber shop for a quick haircut. |
