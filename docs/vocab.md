@@ -312,3 +312,4 @@
 | poll | 여론 조사; 투표하다 | A poll showed that most customers preferred the new design. |
 | take over | 인수하다, 떠맡다 | The new manager took over the department last month. |
 | barber shop | 이발소 | He stopped by the barber shop for a quick haircut. |
+| basement | 지하실, 지하층 | The storage room is located in the basement. |
