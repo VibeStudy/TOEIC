@@ -315,3 +315,4 @@
 | basement | 지하실, 지하층 | The storage room is located in the basement. |
 | garment | 의복, 의류 | The garment factory produces thousands of items daily. |
 | bulk | 대량, 대부분; 대량의 | The company saves money by purchasing supplies in bulk. |
+| proceed | 진행하다, 나아가다 | The team proceeded with the project after receiving approval. |
