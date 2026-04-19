@@ -314,3 +314,4 @@
 | barber shop | 이발소 | He stopped by the barber shop for a quick haircut. |
 | basement | 지하실, 지하층 | The storage room is located in the basement. |
 | garment | 의복, 의류 | The garment factory produces thousands of items daily. |
+| bulk | 대량, 대부분; 대량의 | The company saves money by purchasing supplies in bulk. |
