@@ -318,3 +318,4 @@
 | proceed | 진행하다, 나아가다 | The team proceeded with the project after receiving approval. |
 | negligence | 태만, 부주의 | The accident was caused by negligence on the part of the staff. |
 | vendor | 판매업체, 노점상 | The company selected a new vendor for its office supplies. |
+| envision | 상상하다, 구상하다 | The CEO envisioned a global expansion within five years. |
