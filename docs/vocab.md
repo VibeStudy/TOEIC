@@ -324,3 +324,13 @@
 | pedestrian | 보행자; 평범한, 진부한 | A new crosswalk was installed for pedestrian safety. |
 | premier | 최고의, 일류의; 총리 | The hotel is known as the premier destination for business travelers. |
 | shipment | 선적, 출하; 화물 | The shipment is expected to arrive by the end of the week. |
+| attraction | 명소, 관광지; 매력 | The new museum quickly became a popular attraction in the city. |
+| mingle | 어울리다, 섞이다 | Guests mingled with each other during the networking reception. |
+| be inclined to | ~하는 경향이 있다, ~하고 싶다 | She is inclined to accept the offer given the competitive salary. |
+| hilarious | 매우 우스운, 아주 재미있는 | The comedian's performance was absolutely hilarious. |
+| incisive | 예리한, 날카로운 | The reviewer gave an incisive analysis of the new policy. |
+| biography | 전기, 일대기 | The biography of the founder revealed many surprising facts. |
+| alumni | 동창생, 졸업생 (복수) | The alumni association holds an annual dinner every spring. |
+| legislation | 법률, 입법 | New legislation was passed to protect consumer rights. |
+| raffle | 복권 추첨, 경품 추첨; 추첨하다 | Tickets were sold for a raffle with a grand prize of a laptop. |
+| cluttered | 어수선한, 잡동사니로 가득 찬 | The storage room was cluttered with old equipment and boxes. |
