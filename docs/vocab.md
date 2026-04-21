@@ -226,6 +226,19 @@
 | specifically | 특히, 명확히, 특별히 | The manager specifically asked that all reports be submitted by noon. |
 | setting | 환경, 배경; 설정 | The conference was held in a professional setting. |
 | meanwhile | 그 동안에, 한편 | The team prepared the presentation; meanwhile, the manager reviewed the data. |
+| excursion | 소풍, 단체 여행; 짧은 여행 | The company organized a day excursion to a nearby historic site. |
+| economic downturn | 경기 침체, 경기 하락 | Many businesses struggled to survive during the economic downturn. |
+| dozens of | 수십 개의, 많은 | Dozens of applicants submitted their resumes for the position. |
+| formal | 공식적인, 격식 있는; 정식의 | Employees are required to wear formal attire to the annual dinner. |
+| assortment | 다양한 종류, 구색; 모음 | The gift shop offers a wide assortment of souvenirs and local crafts. |
+| vacancy | 공석, 빈자리; 빈 방 | There is a vacancy in the marketing department that needs to be filled. |
+| lay | 놓다, 두다; (알을) 낳다 | She laid the documents on the manager's desk before the meeting. |
+| tragedy | 비극, 참사 | The community came together to recover from the tragedy. |
+| famed | 유명한, 명성 있는 | The restaurant is famed for its authentic Italian cuisine. |
+| rip | 찢다, 뜯다; 찢긴 부분 | He accidentally ripped the contract while opening the envelope. |
+| deposit | 예치금, 보증금; 예금하다; 두다 | A deposit of one month's rent is required upon signing the lease. |
+| proficient | 능숙한, 숙달된 | Applicants must be proficient in at least two programming languages. |
+| banquet | 연회, 만찬 | The company held a banquet to celebrate its 50th anniversary. |
 
 ---
 
