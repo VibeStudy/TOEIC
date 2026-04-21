@@ -239,6 +239,58 @@
 | deposit | 예치금, 보증금; 예금하다; 두다 | Customers must pay a deposit of 30 percent when placing a custom order. |
 | proficient | 능숙한, 숙달된 | The candidate is proficient in three languages and has worked across five countries. |
 | banquet | 연회, 만찬 | The annual banquet will be held at the Grand Hyatt Hotel on December 15. |
+| increase | 증가하다; 늘리다 | Online sales increased steadily throughout the second quarter. |
+| decrease | 감소하다; 줄이다 | Customer complaints decreased after the new return policy was introduced. |
+| improve | 개선되다; 개선하다 | Employee satisfaction scores improved significantly following the workplace renovation. |
+| open | 열리다; 열다 | The new branch will open to the public on the first of next month. |
+| move | 이동하다; 옮기다 | The IT team moved all servers to the new data center over the weekend. |
+| artifact | 유물, 공예품; 인공물 | The exhibit featured artifacts recovered from an ancient trade route. |
+| cuckoo clock | 뻐꾸기 시계 | The antique cuckoo clock on the wall chimed every hour. |
+| souvenir shop | 기념품 가게 | She picked up a few gifts at the souvenir shop near the entrance. |
+| stuffed animal | 봉제 인형 | She bought a stuffed animal as a souvenir for her niece. |
+| rack | 선반, 걸이대 | She placed her coat on the rack near the entrance. |
+| countertop | 조리대, 카운터 상판 | The groceries were placed on the countertop. |
+| sculpture | 조각품, 조각 | The sculpture was displayed in the center of the gallery. |
+| retreat | 후퇴하다; 휴양지 | The team held a retreat to discuss the company's long-term strategy. |
+| surpass | 능가하다, 초월하다 | Revenue this fiscal year surpassed the previous record by 15 percent. |
+| diversity | 다양성 | The company values diversity and encourages applications from all backgrounds. |
+| diversion | 우회, 전환; 기분 전환 | The road closure caused a diversion that added 20 minutes to the commute. |
+| outline | 개요, 윤곽; 개요를 서술하다 | The proposal outlines three potential approaches to reducing operational costs. |
+| press conference | 기자 회견 | The mayor held a press conference to announce the new infrastructure plan. |
+| remark | 발언, 언급; 말하다 | The chairperson opened the session with a few brief remarks. |
+| logistics | 물류, 병참 | Efficient logistics are critical to maintaining on-time delivery performance. |
+| extensive | 광범위한, 대규모의 | The audit required extensive review of financial records from the past five years. |
+| assume | 가정하다, 맡다 | She will assume the role of acting director while Mr. Park is on leave. |
+| generous | 너그러운, 후한 | The company offered a generous severance package to all laid-off employees. |
+| recession | 경기 침체 | Consumer spending dropped sharply at the onset of the recession. |
+| roast | 굽다; 비판하다 | The chef roasted the lamb slowly to bring out its full flavor. |
+| prestigious | 명성 있는, 권위 있는 | Winning the prestigious industry award raised the firm's profile considerably. |
+| involve | 포함하다, 관련시키다 | The restructuring plan involves merging three separate divisions into one. |
+| poll | 여론 조사; 투표하다 | A recent poll found that 70 percent of employees prefer hybrid work arrangements. |
+| take over | 인수하다, 떠맡다 | The assistant manager will take over all responsibilities during the director's absence. |
+| barber shop | 이발소 | He stopped by the barber shop before his afternoon client meeting. |
+| basement | 지하실, 지하층 | Archive files from previous years are stored in the basement of the building. |
+| garment | 의복, 의류 | The garment industry has faced increasing pressure to adopt sustainable practices. |
+| bulk | 대량, 대부분; 대량의 | Buying office supplies in bulk significantly reduces per-unit costs. |
+| proceed | 진행하다, 나아가다 | Once the inspection is complete, work on the site may proceed as planned. |
+| negligence | 태만, 부주의 | The lawsuit alleged negligence in the handling of customer data. |
+| vendor | 판매업체, 노점상 | The procurement team evaluated three vendors before awarding the contract. |
+| envision | 상상하다, 구상하다 | The founder envisioned a platform that would connect freelancers with global clients. |
+| inconsistent | 일관되지 않은, 모순된 | Inconsistent messaging across departments confused customers during the rebranding. |
+| affiliated | 제휴된, 소속된 | The clinic is affiliated with the city's largest hospital network. |
+| pedestrian | 보행자; 평범한, 진부한 | The new pedestrian bridge connects the business district to the waterfront park. |
+| premier | 최고의, 일류의; 총리 | The firm is regarded as the premier provider of cybersecurity solutions in the region. |
+| shipment | 선적, 출하; 화물 | The customs delay held up the shipment for nearly two weeks. |
+| attraction | 명소, 관광지; 매력 | The renovated waterfront has become the city's most visited attraction. |
+| mingle | 어울리다, 섞이다 | Attendees were encouraged to mingle during the networking hour before dinner. |
+| be inclined to | ~하는 경향이 있다, ~하고 싶다 | The committee is inclined to approve the proposal with minor revisions. |
+| hilarious | 매우 우스운, 아주 재미있는 | The team-building activity turned out to be hilarious and boosted office morale. |
+| incisive | 예리한, 날카로운 | Her incisive feedback helped the team identify flaws in the original design. |
+| biography | 전기, 일대기 | The authorized biography of the founder will be released next spring. |
+| alumni | 동창생, 졸업생 (복수) | The company actively recruits alumni from its partner universities. |
+| legislation | 법률, 입법 | New data privacy legislation requires companies to obtain explicit user consent. |
+| raffle | 복권 추첨, 경품 추첨; 추첨하다 | The charity raffle raised over $5,000 for the community center renovation fund. |
+| cluttered | 어수선한, 잡동사니로 가득 찬 | A cluttered workspace can reduce focus and lower overall productivity. |
 
 ---
 
@@ -291,59 +343,3 @@
 | dedicate | 헌정하다, 전념시키다 | The center **is dedicated** to research. |
 | celebrate | 축하하다, 기념하다 | The anniversary **was celebrated** with a banquet. |
 
-### 자/타동사 둘 다 가능한 동사 (주의!)
-
-| 동사 | 자동사 (수동태 ❌) | 타동사 (수동태 ✅) |
-|------|------------------|------------------|
-| increase | Sales **increased**. (증가했다) | Sales **were increased** by 10%. |
-| decrease | Costs **decreased**. | The budget **was decreased**. |
-| improve | The situation **improved**. | The system **was improved**. |
-| open | The store **opens** at 9. | The door **was opened**. |
-| move | He **moved** to Seoul. | The furniture **was moved**. |
-| artifact | 유물, 공예품; 인공물 | The museum displayed artifacts from ancient civilizations. |
-| cuckoo clock | 뻐꾸기 시계 | The antique cuckoo clock on the wall chimed every hour. |
-| souvenir shop | 기념품 가게 | She picked up a few gifts at the souvenir shop near the entrance. |
-| stuffed animal | 봉제 인형 | She bought a stuffed animal as a souvenir for her niece. |
-| rack | 선반, 걸이대 | She placed her coat on the rack near the entrance. |
-| countertop | 조리대, 카운터 상판 | The groceries were placed on the countertop. |
-| sculpture | 조각품, 조각 | The sculpture was displayed in the center of the gallery. |
-| retreat | 후퇴하다; 휴양지 | The team held a retreat to discuss strategy. |
-| surpass | 능가하다, 초월하다 | Sales this quarter surpassed last year's record. |
-| diversity | 다양성 | The company values diversity in its workforce. |
-| diversion | 우회, 전환; 기분 전환 | The road closure caused a diversion through the town. |
-| outline | 개요, 윤곽; 개요를 서술하다 | The manager outlined the plan for the new project. |
-| press conference | 기자 회견 | The CEO held a press conference to address the issue. |
-| remark | 발언, 언급; 말하다 | The speaker made a brief remark before the presentation. |
-| logistics | 물류, 병참 | The logistics team ensured timely delivery of all goods. |
-| extensive | 광범위한, 대규모의 | The report required extensive research over several months. |
-| assume | 가정하다, 맡다 | We can assume that demand will increase next quarter. |
-| generous | 너그러운, 후한 | The firm offered a generous discount to loyal customers. |
-| recession | 경기 침체 | The company struggled to survive during the recession. |
-| roast | 굽다; 비판하다 | The chef roasted the vegetables before serving them. |
-| prestigious | 명성 있는, 권위 있는 | She received a prestigious award for her contributions. |
-| involve | 포함하다, 관련시키다 | The project involves collaboration between multiple teams. |
-| poll | 여론 조사; 투표하다 | A poll showed that most customers preferred the new design. |
-| take over | 인수하다, 떠맡다 | The new manager took over the department last month. |
-| barber shop | 이발소 | He stopped by the barber shop for a quick haircut. |
-| basement | 지하실, 지하층 | The storage room is located in the basement. |
-| garment | 의복, 의류 | The garment factory produces thousands of items daily. |
-| bulk | 대량, 대부분; 대량의 | The company saves money by purchasing supplies in bulk. |
-| proceed | 진행하다, 나아가다 | The team proceeded with the project after receiving approval. |
-| negligence | 태만, 부주의 | The accident was caused by negligence on the part of the staff. |
-| vendor | 판매업체, 노점상 | The company selected a new vendor for its office supplies. |
-| envision | 상상하다, 구상하다 | The CEO envisioned a global expansion within five years. |
-| inconsistent | 일관되지 않은, 모순된 | The quality of the products has been inconsistent lately. |
-| affiliated | 제휴된, 소속된 | The university is affiliated with several research institutions. |
-| pedestrian | 보행자; 평범한, 진부한 | A new crosswalk was installed for pedestrian safety. |
-| premier | 최고의, 일류의; 총리 | The hotel is known as the premier destination for business travelers. |
-| shipment | 선적, 출하; 화물 | The shipment is expected to arrive by the end of the week. |
-| attraction | 명소, 관광지; 매력 | The new museum quickly became a popular attraction in the city. |
-| mingle | 어울리다, 섞이다 | Guests mingled with each other during the networking reception. |
-| be inclined to | ~하는 경향이 있다, ~하고 싶다 | She is inclined to accept the offer given the competitive salary. |
-| hilarious | 매우 우스운, 아주 재미있는 | The comedian's performance was absolutely hilarious. |
-| incisive | 예리한, 날카로운 | The reviewer gave an incisive analysis of the new policy. |
-| biography | 전기, 일대기 | The biography of the founder revealed many surprising facts. |
-| alumni | 동창생, 졸업생 (복수) | The alumni association holds an annual dinner every spring. |
-| legislation | 법률, 입법 | New legislation was passed to protect consumer rights. |
-| raffle | 복권 추첨, 경품 추첨; 추첨하다 | Tickets were sold for a raffle with a grand prize of a laptop. |
-| cluttered | 어수선한, 잡동사니로 가득 찬 | The storage room was cluttered with old equipment and boxes. |
