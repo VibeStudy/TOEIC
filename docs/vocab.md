@@ -291,6 +291,11 @@
 | legislation | 법률, 입법 | Recent legislation requires all businesses with over 100 employees to submit annual diversity reports. |
 | raffle | 복권 추첨, 경품 추첨; 추첨하다 | The charity event featured a raffle with prizes donated by local businesses. |
 | cluttered | 어수선한, 잡동사니로 가득 찬 | The storeroom had become so cluttered that staff could no longer locate essential supplies. |
+| parking garage | 주차 건물, 주차장 | The new parking garage adjacent to the office building can accommodate up to 300 vehicles. |
+| flu | 독감 | Several employees called in sick with the flu, prompting management to remind staff to get vaccinated. |
+| dispatch | 파견하다, 발송하다; 급파 | A repair technician was dispatched to the client's site within two hours of the complaint. |
+| outlet | 콘센트; 판매점; 배출구 | The company opened a new outlet in the downtown shopping district to reach more customers. |
+| dispose of | ~을 처리하다, 버리다 | All expired chemicals must be disposed of in accordance with local environmental regulations. |
 
 ---
 
