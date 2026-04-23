@@ -296,6 +296,13 @@
 | dispatch | 파견하다, 발송하다; 급파 | A repair technician was dispatched to the client's site within two hours of the complaint. |
 | outlet | 콘센트; 판매점; 배출구 | The company opened a new outlet in the downtown shopping district to reach more customers. |
 | dispose of | ~을 처리하다, 버리다 | All expired chemicals must be disposed of in accordance with local environmental regulations. |
+| promising | 유망한, 전도유망한 | The firm identified several promising candidates during the first round of interviews. |
+| grant | 수여하다, 부여하다; 보조금 | The university was granted additional funding to expand its engineering program. |
+| prolonged | 장기간의, 오래 지속되는 | The prolonged construction work caused significant disruption to nearby businesses. |
+| drought | 가뭄; 부족, 결핍 | The severe drought forced the agricultural cooperative to seek emergency government aid. |
+| morale | 사기, 의욕 | The surprise bonus significantly boosted morale among the sales team. |
+| outlying | 외곽의, 변두리의 | Deliveries to outlying areas may take an additional two to three business days. |
+| wing | (건물의) 별관, 익관; 날개 | The new east wing of the hospital will house the expanded oncology department. |
 
 ---
 
